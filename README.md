@@ -6,6 +6,10 @@ En este repositorio se incluyen algunos ejemplos de código escritos en lenguaje
 
 ![reloj](https://github.com/WalterAndreSilva/Shaders/blob/main/animaciones/reloj.gif "reloj")
 
+### Slime con moviminto
+
+![slime](https://github.com/WalterAndreSilva/Shaders/blob/main/animaciones/slime.gif "slime")
+
 ## Referncias
 
 En el sitio web [Shadertoy](https://www.shadertoy.com/) se pueden cargar los codigos y ejecutarlos sin mayores configuraciones 
